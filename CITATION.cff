@@ -3,8 +3,8 @@ message: "If you use this software, please cite it and the original papers liste
 title: "osa-ha-martini3: a Martini 3 generator for OSA-grafted hyaluronic acid"
 type: software
 authors:
-  - given-names: "[YOUR FIRST NAME]"
-    family-names: "[YOUR LAST NAME]"
+  - given-names: "Mohsen"
+    family-names: "Namnabat"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # uncomment and fill in if you have one
 license: CC-BY-4.0
 repository-code: "https://github.com/Namnabat-Mohsen/osa-ha-martini3"
