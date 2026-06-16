@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the original papers listed in 'references' below."
+title: "osa-ha-martini3: a Martini 3 generator for OSA-grafted hyaluronic acid"
+type: software
+authors:
+  - given-names: "[YOUR FIRST NAME]"
+    family-names: "[YOUR LAST NAME]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # uncomment and fill in if you have one
+license: CC-BY-4.0
+repository-code: "https://github.com/Namnabat-Mohsen/osa-ha-martini3"
+abstract: >-
+  A derivative of carbo2martini3_2.0.py that generates primitive starting
+  geometries and Martini 3 coarse-grained force-field files (GROMACS format)
+  for hyaluronic acid (HA) and OSA-grafted HA (OSA-HA) at a chosen degree of
+  substitution. The OSA graft parameters are a preliminary, unvalidated
+  extension of the published HA model.
+references:
+  - type: article
+    title: "Extending the Martini 3 Coarse-Grained Force Field to Hyaluronic Acid"
+    authors:
+      - given-names: Valery
+        family-names: Lutsyk
+      - given-names: Wojciech
+        family-names: Plazinski
+    journal: "The Journal of Physical Chemistry B"
+    year: 2025
+    volume: 129
+    issue: 9
+    start: 2408
+    end: 2425
+    doi: "10.1021/acs.jpcb.4c08043"
+  - type: article
+    title: "Extending the Martini 3 Coarse-Grained Force Field to Carbohydrates"
+    authors:
+      - given-names: Valery
+        family-names: Lutsyk
+      - given-names: Pawel
+        family-names: Wolski
+      - given-names: Wojciech
+        family-names: Plazinski
+    journal: "Journal of Chemical Theory and Computation"
+    year: 2022
+    volume: 18
+    issue: 8
+    start: 5089
+    end: 5107
+    doi: "10.1021/acs.jctc.2c00553"
